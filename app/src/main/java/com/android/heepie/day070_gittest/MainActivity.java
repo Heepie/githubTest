@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         Button button4;
 
+        Button button;
     }
 }
